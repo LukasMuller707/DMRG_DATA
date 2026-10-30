@@ -3,7 +3,7 @@ DMRG data supporting the manuscript "Spin-singlet superconductivity driven by bo
 Authors: Saisai He, Xichen Huang, Jize Zhao, and Zhong-Bing Huang.
 Contact: zhaojz@lzu.edu.cn
 
-============================================================================================
+===========================================================
 This archive contains numerical data supporting Figures 1–7 of the manuscript.
 Directory contents:
 Figure_1: MATLAB plotting scripts containing phase-boundary coordinates for U = 2 and U = 4.
